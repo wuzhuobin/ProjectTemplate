@@ -1,43 +1,26 @@
 /**
- * @file    	format.txt
- * @language   	TXT 
- * @author  	WUZHUOBIN jiejin2022
- * @since   	Aug.26.2017
+ * @file format.cpp
+ * @author WUZHUOBIN jiejin2022.163.com
+ * @since Aug.26.2017
+ * @version 1.0
+ * @copyright WUZHUOBIN All rights reserved.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ This program is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ See the LICENSE for more detail.
+ Copyright (c) WUZHUOBIN. All rights reserved.
+ See COPYRIGHT for more detail.
+ This software is distributed WITHOUT ANY WARRANTY; without even
+ the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+ PURPOSE.  See the above copyright notice for more information.
+ Internal usage only, without the permission of the author, please DO
+ NOT publish and distribute without the author's permission.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
- *			This program is distributed in the hope that it will be useful, but	 *
- *			WITHOUT ANY WARRANTY; without even the implied warranty of			 * 
- *			MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.				 * 
- *			See the LICENSE for more detail.									 * 
- *			Copyright (c) WUZHUOBIN. All rights reserved.						 * 
- *			See COPYRIGHT for more detail.										 * 
- *			This software is distributed WITHOUT ANY WARRANTY; without even		 * 
- *			the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR	 * 
- *			PURPOSE.  See the above copyright notice for more information.		 *
- *			Internal usage only, without the permission of the author, please DO *
- *			NOT publish and distribute without the author's permission.  	     *
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * @brief   	Format document for Software Developer in Something. 
  * Something Software Development format file. The following file describes how to write a 
  * standard Something Software. 
- * 
- * Update Log:
- * @date    Aug.26.2017
- * @version 0.1.0
- * The first version. 
- * 
- * @date    Sep.19.2017
- * @version 1.0.0
- * The 0.1.0 version just a beginning of the whole format.txt file.  And this version should
- * be apply to all developers. This version lack of ITK coding style. 
- * 
- * @date    Sep.19.2017
- * @version 1.1.0
- * Some syntax error.
- * 
- * @date 	Oct.16.2018	
- * @version	2.0
- * Update to new doxygen format.
  *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
  * 1.   GLODEN STANDARD: Qt class follow Qt coding style convention. VTK class follow VTK  *
@@ -181,24 +164,24 @@
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
  */
 /**
- * @file		QvtkData/QvtkScene.h.
- * @language	C++
- * @author		WUZHUOBIN jiejin2022@163.com
- * @since		Jun.19.2017
- * 
+ * @file QvtkData/QvtkScene.h.
+ * @author WUZHUOBIN jiejin2022.163.com
+ * @since Aug.26.2017
+ * @version 1.0
+ * @copyright WUZHUOBIN All rights reserved.
  * for Util
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
- *			This program is distributed in the hope that it will be useful, but	 *
- *			WITHOUT ANY WARRANTY; without even the implied warranty of			 * 
- *			MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.				 * 
- *			See the LICENSE for more detail.									 * 
- *			Copyright (c) WUZHUOBIN. All rights reserved.						 * 
- *			See COPYRIGHT for more detail.										 * 
- *			This software is distributed WITHOUT ANY WARRANTY; without even		 * 
- *			the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR	 * 
- *			PURPOSE.  See the above copyright notice for more information.		 *
- *			Internal usage only, without the permission of the author, please DO *
- *			NOT publish and distribute without the author's permission.  	     *
+ This program is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ See the LICENSE for more detail.
+ Copyright (c) WUZHUOBIN. All rights reserved.
+ See COPYRIGHT for more detail.
+ This software is distributed WITHOUT ANY WARRANTY; without even
+ the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+ PURPOSE.  See the above copyright notice for more information.
+ Internal usage only, without the permission of the author, please DO
+ NOT publish and distribute without the author's permission.
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  */
 #ifndef __QVTK_SCENE_H__
