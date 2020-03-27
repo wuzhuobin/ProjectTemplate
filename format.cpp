@@ -204,10 +204,6 @@ struct SceneConfiguration;
 /**
  * @class	Scene
  * @brief	Util Scene.
- * @author	WUZHUOBIN
- * @version	1.0
- * @since	Jun.19.2017
- * @date	Oct.16.2018
  * 
  * This class is designed for doing the IoC(Inverse of Control). It can store
  * data which inherits Data.
