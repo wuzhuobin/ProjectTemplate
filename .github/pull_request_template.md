@@ -5,7 +5,7 @@
 
 ##### Detail
 
-w.r.t [HIMP-XX](https://jira.atlas.philips.com/browse/HIMP-XX)
+w.r.t [XXX-XX](https://XXX.com)
 
 ##### Mention
 
