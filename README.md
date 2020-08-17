@@ -5,9 +5,6 @@
 *   Since: Mar.23rd.2020
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
->			This program is distributed in the hope that it will be useful, but
->			WITHOUT ANY WARRANTY; without even the implied warranty of
->			MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 >			See the LICENSE for more detail.
 >			Copyright (c) WUZHUOBIN. All rights reserved.
 >			See COPYRIGHT for more detail.
