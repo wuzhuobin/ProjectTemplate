@@ -10,7 +10,7 @@
 >			See COPYRIGHT for more detail.
 >			This software is distributed WITHOUT ANY WARRANTY; without even
 >			the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
->			PURPOSE.  See the above copyright notice for more information.
+>			PURPOSE.
 >			Internal usage only, without the permission of the author, please DO
 >			NOT publish and distribute without the author's permission.
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
